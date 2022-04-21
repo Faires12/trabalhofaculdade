@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Inter';
+    overflow-x: hidden;
 }
 
 main{
@@ -520,7 +521,7 @@ main{
 footer{
     width: 100%;
     background-color: #08245c;
-    padding: 100px;
+    padding: 50px;
     display: flex;
 }
 
